@@ -7,3 +7,4 @@ can sen email using node.js
                          user: your email",
                          pass: "password" 
                            }
+4. run npm start
